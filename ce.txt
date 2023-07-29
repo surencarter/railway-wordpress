@@ -1,0 +1,330 @@
+Why Customer Education?
+
+This section will detail “Why Customer Education” and equip you with a background in customer education (CEd), the use cases, the
+“enemy,” essential resources, and an elevator pitch.
+
+5
+
+Customer Edu Overview
+
+Customer Education is the discipline of teaching customers how to use and find value in products. As a business function, it benefits
+customers in many stages of their journey.
+Before a sale, Customer Education educates buyers and influencers about the market and the product. After the sale, Customer Education
+educates users about how to use the product. This helps them get the most value over time.
+Customer Education isn’t about the specific actions you take to educate the customer; it’s not about running webinars, delivering training, or
+writing articles. Yes, it usually involves all of those. But what defines a Customer Education program is its role in your business.
+
+What is Customer Education, and why does it matter for your business?
+In the book, Customer Education: Why Smart Companies Profit by Making Customers Smarter, CELab co-host Adam Avramescu defines
+Customer Education and what it does for a business.
+A Customer Education function strategically accelerates account and user growth by changing behaviors, reducing barriers to value, and
+improving the way people work.
+This definition doesn’t include which programs are in your portfolio — and that’s intentional. Customer Education departments can use
+different programs and strategies to achieve the end goal; no two are exactly alike. We’ll get into some common formats and programs later
+in this guide.
+Let's break down our definition to learn why Customer Education is important.
+
+Customer Education is a strategic function, not an activity
+As we mentioned before, Customer Education is a strategic business function. It’s not just an activity you perform. If you’re delivering
+training or writing articles, those are activities, not a Customer Education strategy.
+Most startups educate customers organically at first. Everyone pitches in to train customers, write help content or create webinars and
+videos. That’s perfectly natural. But there comes a time when Customer Education needs to be formalized.
+There are a few reasons to treat Customer Education as a function, not just an activity. First, you won't have one if no one owns your
+Customer Education strategy. Everyone will continue pitching in, but their creations won’t be consistent. You’ll start duplicating efforts and
+wasting time. Worst of all, your customer won’t have a straightforward journey.
+A Customer Education strategy also helps you evolve over time. Eventually, you’ll move toward a portfolio of programs. You may have an
+online academy, a help center, a public training or webinar program, in-product education, certifications or badging, and paid learning
+services. These programs require rigor. Eventually, they need to be run as an actual department. Start thinking of them as a portfolio.
+
+Customer Education serves both accounts and individual users
+Customer Education touches many user personas: buyers, product owners, champions, admins, developers, end users — you name it! We
+often educate people who are involved with buying decision. We also educate those who will actually use the product.
+Depending on whether your product is B2B (business-to-business) or B2B (business-to-consumer), you may have multiple layers of
+education. On the one hand, you’ve got to educate the individual users and help them find value in your product. Whether you’re a B2C or
+B2B business, this is true: a product is only as good as people use it. For B2B products, though, you’re often educating those users within
+the context of an account. This might mean they’re all going to start using your product simultaneously. It might also mean that they
+customize certain aspects of your product for their organization. These types of decisions can change the way you approach educating
+customers.
+
+6
+Customer Education accelerates growth throughout the customer journey
+A thorough Customer Education strategy doesn’t just address what content is created and in what format; it addresses how you’ll drive
+customers’ maturity throughout their journey. We must know what they want to achieve and show them the path to get there.
+Based on your account and user persona mapping, you will include different types of education along the customer journey.
+For example, an account will typically go through a journey that includes pre-sales evaluation, purchase, launch, adoption, growth and
+maturity, and expansion. That expansion can lead to further launches, adoption, growth, and maturity. In the best case, it’s a virtuous cycle.
+Have you created education programs that only address launch? Or have you thought about what you’ll offer customers to drive growth and
+maturity over time?
+An individual user also goes through a journey. They’ll start by evaluating the product, too. Once they see how it provides value, they’ll start
+learning more basic skills. They’ll build their expertise and more advanced skills if they keep seeing value. They may even become a
+champion of your product, influencing others to use it. Do you have education programs for more advanced users and champions or just
+your basic users? And does your basic user program actually motivate them to get value from your product? These are big questions to
+consider.
+
+Customer Education changes behavior, reduces barriers, and improves the way people work
+If you ask the average person in your business what the goal of education is, they would probably say “knowledge.” If they have a training
+background, they also might include “skills.”
+Customer Education indeed builds skills and knowledge but in the service of what? Customer Education must be dedicated to helping
+customers find value. To grow an account, each team member needs the right skills. They need to overcome hurdles to value. And perhaps
+most importantly, they should become better at what they do. What could be more valuable than that?
+If your Customer Education program is firing on all cylinders, you change how people behave. That might mean giving them the following:
+Knowledge that empowers them
+Skills that enable them to get value from your product
+Motivation to use your product in different ways.
+You should be able to measure differences in how people use a product before and after training or with vs. without education.
+Focusing on behavior change also helps to determine what is or isn’t essential to teach. “Cool” features that don’t actually provide value to
+the customer? Don’t waste time teaching them. Features that are so basic that customers already “just get it”? Again, don’t waste your time.
+
+What should you do instead?
+Instead, prioritize educating customers on how to overcome barriers or do better work. Ultimately that’s what most customers are looking for
+— more value with less friction. Let’s say you have hundreds of features in your product, but five will let the customer get up and running
+most quickly. Don’t waste time taking them on a full tour of the UI — highlight those five features! If you know there’s a common error or
+support issue, create docs or in-product education on it! Your work will help the customer avoid or resolve the problem.
+Finally, helping customers do better work means that Customer Education is often much broader than just product education. For
+companies in new or growing industries (for example, Hubspot for inbound marketing or Gainsight for Customer Success), you’ll often need
+to educate your customers on the industry and how to do their jobs well. This provides great opportunities to expand Customer Education’s
+reach through industry-focused education.
+
+Why is Customer Education important for a business?
+Once companies invest in a true Customer Education strategy, executives often have an “a-ha” moment: Customer Education is a secret
+weapon for the business. Often, it’s done in an ad hoc manner, with various people across the business delivering various pieces of
+
+7
+
+training. But when you invest in it, it becomes rocket fuel for your customers’ success.
+An effective Customer Education strategy will drive real business results, especially if it serves customers throughout their journey. For
+example, Customer Education can influence key metrics from marketing leads, to product adoption, to support contact rate — and more. At
+a high level, Customer Education does several things, notably, it:
+Provides a roadmap for your customers to get increased value, and over time
+Increases your brand value in the market
+Reduces support burden and frees up your CSMs and support reps to have higher-value interactions
+If done right, Customer Education drives customer lifetime value and maturity, differentiates your brand as a category leader, and increases
+self-service efficiency. Here’s a breakdown of how Customer Education drives the metrics that SaaS businesses typically care about.
+Higher Customer Lifetime Value
+At the highest level, Customer Education affects two of the most important metrics for a subscription business:
+CAC (Customer Acquisition Cost): the cost to acquire a customer
+LTV (Lifetime Value): the value you receive when they’re successful.
+Because customers are expensive to acquire, your business needs to keep them — and keep them growing — to achieve a profit.
+According to ProfitWell’s blog, this is why the ratio of Customer Acquisition Cost to Customer Lifetime Value is the “god metric” for SaaS
+companies.
+Customer Education can support and scale your sales and marketing efforts. But arguably, it’s even better at maximizing your customers’
+lifetime value so they stay and grow with you over time.
+Defining CAC and LTV
+Customer Acquisition Cost (CAC): This is the total cost of your sales and marketing efforts. It includes the humans your company hires, the
+tools they purchase, the campaigns they run, and more. This stuff is expensive, so any efficiency will help. Customer Education can reduce
+the number of questions your sales humans answer repeatedly. It also helps you convert trials to paid plans effectively. We recommend
+providing ungated education on your product and industry. This content creates more informed buyers and provides your sales team with
+resources they can use during their deal cycles.
+Customer Lifetime Value (LTV): The longer an account stays with you, the more they buy from you over time and the more value you
+derive. Customer Education helps to instill customer loyalty by building trust and accelerating value. As you educate customers, they find
+new ways to use your product. They’ll know which features to use and how to use them. They’ll learn tips, tricks, and best practices that
+give them more value. And these customers are usually more likely to renew or expand and less likely to downgrade or churn. Put simply,
+educated customers are more likely to see value in staying with you.
+Increased Customer Maturity and Satisfaction
+While we’re on the topic of Customer Lifetime Value... Customer Education isn’t just valuable to your business because your customers
+stay longer; it’s valuable to your customers because they’ll have the tools they need to succeed.
+Customer Maturity: Every business defines maturity differently. Usually, this is a stage of customer growth past basic adoption. It’s where
+you see customers starting to use your product in more advanced ways. Mature customers can see the path to ongoing value over time.
+Many companies use maturity models to diagnose the customer’s current state and set a path to a future state.
+Customer Sentiment or Loyalty: Typically measured with Net Promoter Score (NPS), those 0-10 “Would you recommend this product?”
+surveys, customers are more likely to renew and expand over time if they’re strong advocates of your product. Customer Education helps
+customers become loyal advocates by empowering them and connecting them with others.
+Product Adoption: The path to meaningful product usage is similar to how you would form any habit. It’s like brushing your teeth. Customer
+Education helps users understand why they should do it and then build a habit around it. You’ll also be able to drive more sophisticated
+usage over time. User sophistication often measures how individual users perform in your product. This differs from Customer Maturity,
+
+8
+
+which usually measures an account's maturity.
+Higher brand and marketing impact
+As we mentioned earlier, new customers are hard to acquire. That’s why Customer Education can play a role in making it easier. For years,
+the conventional wisdom was that you shouldn’t provide too much public education or documentation. Why? Because it would expose too
+much to the competition.
+Today, companies who invest in public-facing Customer Education find that the benefits outweigh the risks. This holds true both for brand
+value and lead generation. Because customers and prospects typically search for information before ever talking to a rep (70% in some
+studies!), you want your brand to be the first one to educate them when they search.
+Customer Education makes life more efficient for your sales teams. With great education, your company will be perceived as an authority in
+your industry.
+Brand Differentiation: If you are the “education leader” in your category, your brand will be seen as the expert. This makes buying decisions
+easier and also increases customer loyalty. It’s harder to win in your category without proving that you know the space better than anyone
+else.
+Marketing Qualified Leads (MQLs) and Marketing Attribution: Let’s say you produce educational content available to customers before
+buying. This will contribute to the leads your company generates. Today’s buyers often do self-service research before talking to a sales
+rep. Where are they looking? Not just in official brochures and marketing content. They want to see help center articles, product videos, and
+other resources to educate themselves.
+
+More efficient self-service and support deflection
+Customers don’t like calling in to ask for support. On the other hand, your CSMs and support reps probably don’t like answering the same
+questions over and over. That’s a lose-lose situation.
+Self-service Customer Education not only decreases your support costs but also decreases users’ frustration.
+You can measure the average number of support tickets submitted per customer or per 100 customers. This number should be noticeably
+lower for educated customers.
+
+Increased revenue
+Many Customer Education programs generate revenue directly by selling Education Services. At the very least, larger Education Services
+teams run on a P&L. Thus, they’re expected to recover the costs of running their organization.
+As you create more valuable educational content, you’ll earn the right to charge for it. Customers will also pay for private or more
+customized delivery of your courses.
+
+A Scale Engine for your business
+You can achieve nearly any of the metrics above by hiring enough people and throwing them at the problem. A squadron of support reps
+can answer all your customers’ questions; a company of CSMs can deliver live training at a customer’s whim; a maelstrom of marketers can
+produce a whirlwind of content. But that’s not realistic or efficient for most businesses. It’s often a poor use of those individuals’ skills and
+talents.
+When you use expensive humans to perform repeatable education tasks, like answering the same support tickets over and over or
+delivering the same pieces of training, you won’t be able to scale and serve hundreds or thousands more customers without needing to hire
+more expensive humans. This becomes even more true when you serve geographically diverse customers, requiring you to hire more
+people in-region.
+You’ll develop a strategy with Customer Education that scales with your company’s growth. Common support questions become help
+articles and in-product education. Repeatable pieces of training become virtual courses and online academies. Now, you’re providing a
+
+9
+
+more consistent educational experience. And then your talented humans who work with customers can become more strategic. They’ll now
+fill in gaps and provide extra help instead of being the single point of success or failure.
+
+Wrapping up...
+As you’ve seen, Customer Education can provide many benefits, but you won’t be able to serve all of these functions on day one. Even
+mature Customer Education programs don’t prioritize all of these metrics. It’s important for you to start with a Customer Education strategy
+that aligns with your overall business and product.
+Align with your leaders on which metrics are most important to drive. For example, consider three company stages:
+Hypergrowth mode: you may focus more on marketing and product adoption metrics.
+Maturing companies: you may be more focused on maturity and scale, as well as retaining customers. Well-established companies:
+revenue may be expected, and your department could run on a P&L.
+It’s crucial to have a strategy as you build your Customer Education program. Do this before creating a bunch of content or selecting an
+LMS.
+
+10
+
+Customer Edu Use Cases
+
+Customer education is typically used by businesses to help customers understand and get the most value from their products or services.
+Some common use cases of customer education include:
+
+Customer Onboarding
+It's a known fact in SaaS that Customer Lifetime Value (CLTV) is directly correlated to the success of their onboarding process.
+As SaaS companies scale up, they must continue to provide a practical and cost-effective onboarding experience. Some of the best
+companies, like Hubspot, Salesforce, and Looker, have made digital learning the first step of the onboarding process. These thought
+leaders use online courses as prerequisites to the first personalized touchpoint.
+HackerRank uses this approach. All new HackerRank customers are provided with an online implementation course that they can complete
+on their own time. Upon completing the course, they schedule an appointment with an onboarding manager to go through a more
+personalized process.
+The benefit to their customers is they can learn about the HackerRank platform on their time and start thinking about how they want to get
+the most from their upcoming personalized experience. The benefit to HackerRank is their onboarding resources' time is better spent
+because they're now working with more educated customers.
+The CCO or other customer success and implementation leaders drive this use case. ROI is usually measured by TTV (time-to-value or the
+time it takes for a customer to experience the benefits of a solution), the reduction in hours CSMs/implementation teams spend delivering
+how-to-style platform orientations to customers, and increased NPS (net promoter scores) for customers in onboarding or those that just
+completed onboarding. In 2023, although the other business outcomes are interesting, reducing customer-facing teams' time spent
+delivering training will be vital to articulating ROI to CFOs and other executive sponsors.
+
+Feature Education
+Like the imperative of a customer having a great onboarding experience, ongoing product training is critical for ensuring continuous
+customer success and influencing customer retention. Digital learning experiences are an effective and scalable way to provide training on
+new product launches and prompt the adoption of underutilized features. The goal is to help customers understand the full range of features
+and benefits, and to encourage them to use the product to its full potential.
+Companies can get creative with their application of this use case. For example, as new products are deployed, customers can be
+prompted to register for an online course about maximizing the product's value. Additionally, if a customer upgrades to a higher-tier plan, a
+workflow could be triggered to present that customer with an overview course of the new features they've just unlocked. Lastly, if a
+customer is misusing the product or is "stuck," they could be enrolled in a course that will help them be more successful.
+Similarly to customer onboarding, the CCO or other customer success and implementation leaders drive this use case. ROI is usually
+measured by increased product usage (customers that know how to use a product are more likely to be successful with it), reduction in
+inbound support tickets and support costs (when customers are served with just-in-time learning content, they are less likely to contact
+support or other customer-facing team members), and higher NPS scores. In the long run, when customers know how to use a product,
+they'll experience more benefits from it, and companies should also see an uplift in expansion and retention metrics.
+Did you know trained customers are 10-20% more likely to renew? Also, the lack of product training is the #1 reason SaaS companies
+experience churn.
+
+Best Practices
+Sharing tips and techniques for using the product or service effectively and efficiently is the goal of best practices education. This type of
+education could involve tutorials, videos, or live demonstrations that show customers how to optimize their use of the product, as well as
+
+11
+
+tips and tricks for getting the most value from it. The goal is to help customers get the most out of the product and to reduce the likelihood of
+them encountering problems or challenges.
+
+Troubleshooting
+Providing guidance on addressing common problems or issues that customers may encounter is the goal of troubleshooting education. By
+embedding courses in a platform, customers can figure out common problems on their own, without involving the support of CS and
+Support teams. The goal is to help customers resolve problems quickly and efficiently, and to reduce the amount of time they spend dealing
+with issues.
+
+Product Updates
+Keeping customers informed about new features or enhancements to the product or service, and how they can take advantage of them, is
+the goal of product update education. This type of education could involve regular course updates in the course catalog or in-app
+notifications highlighting the latest updates and what they mean for customers. The goal is to keep customers informed and engaged, and
+to encourage them to continue using the product as it evolves.
+
+Thought Leadership
+By providing educational resources in public customer-facing academies, SaaS companies can increase brand awareness and attract new
+customers.
+Think Hubspot Academy. It's a centerpiece of Hubspot's demand generation engine. Tens of thousands of people looking to learn about
+marketing go to Hubspot Academy before they know that Hubspot even makes software.
+What is Hubspot Academy? It's content marketing at its finest!
+Using digital learning as a form of content marketing is remarkably powerful and can boost a company's ability to attract and convert new
+customers. The internet is flooded with blogs, ebooks, and podcasts. Online courses are an effective way for a company to differentiate.
+Crayon, the leading competitive intelligence platform, uses Northpass to build awareness and become a trusted brand for the competitive
+intelligence industry. They are using an academy to educate their prospective customers on their category so customers can have a better
+understanding of how it benefits them. Crayon has attributed a meaningful amount of its lead generation growth to the visibility of its
+academy.
+The Chief Marketing Officer or other marketing leaders typically drive this use case. ROI is usually measured by measure by the number of
+MQLs (marketing qualified leads or the # of leads that book a sales call) created and, in the long run, CAC (Customer Acquisition cost or the
+amount of money it costs to sign up a new customer).
+
+12
+The "Enemy" in Customer Education
+
+Most companies are doing some form of customer education, but very few are doing digital customer education.
+The reality is customers can stand up a customer education program without using a digital customer learning solution like Northpass. They
+can rely on customer-facing teams, disparate content sources (Youtube, support docs, etc.), or "hacky" CSP/CRM automation to deliver
+customer education. At Northpass we call these “traditional” forms of customer education. 1:1 Zoom calls with a CSM that are hard to
+schedule and take up time, webinars that are impersonal and ineffective, PDFs and article links that get sent and lost in email – these are
+all ad-hoc and manual training methods that are inefficient and don’t provide the best customer experience.
+Traditional customer education is who Northpass sees as the “enemy” – the alternative way CS teams are training their customers today.
+You'll typically see companies having their CSMs set up numerous product orientation/training calls with various project stakeholders,
+sending automated emails directing new customers to their Youtube channel or "Set up Guides" in PDF formats, or companies responding
+reactively to their customers with "training content" available in their support center.
+When you face this scenario, consider the following talk track:
+“As a customer success leader, you're probably providing training to your customers in some capacity today. Perhaps it's ad-hoc
+mainly, delivered by CSMs or implementation managers, PDF-based, conducted reactively, and largely informal.
+In reality, training in this capacity directly contrasts with how people today want to learn.
+Today, with a device and connection, anyone worldwide can learn any topic
+- Dreamed of playing piano classics? There are dozens of apps to learn the basics.
+- Want to cook a meal to impress? Thousands of YouTube videos teach celebrity chef secrets.
+- Need to become an effective negotiator? A MasterClass awaits.
+But businesses haven't kept pace with how people want to learn.
+Instead, they make it hard to learn about their products and burn valuable time with antiquated formats and expensive training
+processes that have limited reach to all pertinent stakeholders.
+Since 2/3 of the SaaS market hasn't made the first step and started investing in Digitial Customer Education, you have a massive
+opportunity to train their customers in formats they've become accustomed to in their everyday lives and have a leg up on your
+competition.
+We're seeing plenty of companies invest in digital customer education platforms, like Northpass, to educate their customers about
+their products and services in a digital format.
+Imagine if your customers could access high-quality, interactive training anywhere and anytime that helps them be successful with
+your software independently of guidance from your team. Imagine how much operational expenses could be reduced by offloading
+routine but essential training tasks from people to platforms. What impact could digitizing customer education have on your
+business?
+
+13
+Digital Customer Education Elevator Pitch
+
+Digital customer education is the lynchpin to running an effective customer success program. The best companies today want to use data
+within their customer success platform or other business tools to help maximize their customer success managers’ time spent on retention
+
+and expansion-based activities. However, what I repeatedly see in the market is that when customers have inadequate, manual, and non-
+digital customer education programs, a couple of things happen:
+
+1. Customers continually request more time from their CSM to fill in knowledge gaps about how to use their product, which blocks a CSM
+from working strategically with their book of business.
+2. Customers don’t ask for guidance and quietly suffer until they can no longer afford to spend money and time on a solution that isn’t
+yielding results. Then, they cancel.
+Neither of these is a good outcome for the customer or the business. The best companies today, such as HackerRank, Pipedrive, and G2,
+are building new programs to enable their customers in a way that’s not fully dependent upon their CSMs. They are delivering:
+New user training & certification
+Personalized course recommendations to users based on product usage data or health scores
+And contextual learning opportunities to users in-app, which is a really good way to reduce friction in customer relationships
+As companies are enabling their customers with relevant, just-in-time training, they are also equipping CSMs with this data in their CSP,
+CRM, or system of record so they can continue to make decisions on the health of an account.
+To summarize, digital customer education programs can fuel and help scale customer success programs by unblocking CSMs and enabling
+training to reach more stakeholders, contributing to lower churn.
